@@ -1,0 +1,74 @@
+[
+{
+  "name": "Samsung",
+  "price": "20k",
+  "ram": 4,
+  "starRating": 5
+},
+{
+  "name": "IPhone",
+  "price": "20k",
+  "ram": 2.5,
+  "starRating": 2.5
+},
+{
+  "name": "Oppo",
+  "price": "20k",
+  "ram": 4,
+  "starRating": 4
+},
+{
+  "name": "Realme",
+  "price": "20k",
+  "ram": 4,
+  "starRating": 5
+},
+{
+  "name": "Samsung",
+  "price": "20k",
+  "ram": 4,
+  "starRating": 5
+},
+{
+  "name": "IPhone",
+  "price": "20k",
+  "ram": 2.5,
+  "starRating": 2.5
+},
+{
+  "name": "Oppo",
+  "price": "20k",
+  "ram": 4,
+  "starRating": 4
+},
+{
+  "name": "Realme",
+  "price": "20k",
+  "ram": 4,
+  "starRating": 5
+},
+{
+  "name": "Samsung",
+  "price": "20k",
+  "ram": 4,
+  "starRating": 5
+},
+{
+  "name": "IPhone",
+  "price": "20k",
+  "ram": 2.5,
+  "starRating": 2.5
+},
+{
+  "name": "Oppo",
+  "price": "20k",
+  "ram": 4,
+  "starRating": 4
+},
+{
+  "name": "Realme",
+  "price": "20k",
+  "ram": 4,
+  "starRating": 5
+}
+]
